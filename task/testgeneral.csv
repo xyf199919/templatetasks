@@ -1,0 +1,8 @@
+Category,Questions,Field,Description,Planner,Client,Time
+General,Date,,Get your Marriage license ,x,y,4
+General,Date,,RSVPs are due (month before weddng due),y,x,5
+General,Date,,Final guest count due,x,y,2
+General,Date,,seating arrangements (4 weeks before usually due...can get dates due from stationer),x,y,2
+General,Date,,Book honeymoon ,x,y,4
+General,Guest Count,,Remind client guest count is due ,y,x,5
+General,Guest Count,,Compile Guest list,y,x,5

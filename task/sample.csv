@@ -1,0 +1,21 @@
+,description,question,field,timing,timingratio,mintime,assignment,client,category
+0,Pull together venue referrals and set up tours ,Is the Venue booked? ,No,-70,0.23333333333333334,-42.0,planner,no,Venue
+1,Review venue referrals and provide feedback,Is the Venue booked? ,No,-28,0.09333333333333334,-42.0,client,yes,Venue
+2,Finalize and book venue,Is the Venue booked? ,No,-30,0.1,-180.0,planner,no,Venue
+3,Check if venue has preferred vendor requirements ,Is the Venue booked? ,No,-60,0.2,-150.0,planner,no,Venue
+4,Enter venue(s) information,Is the Venue booked? ,No,-14,0.04666666666666667,-42.0,planner,no,Venue
+5,Confirm venue delivery and pick up requirements ,Is the Venue booked? ,No,-300,1.0,-150.0,planner,no,Venue
+6,Request venue contract from client,Is the Venue booked? ,Yes,-300,1.0,-180.0,planner,no,Venue
+7,Send venue contracts and pertinent information to planner,Is the Venue booked? ,Yes,-9,0.03,-6.0,planner,no,Venue
+8,Enter venue(s) information,Is the Venue booked? ,Yes,-10,0.03333333333333333,-6.0,planner,no,Venue
+9,Check if venue has preferred vendor requirements ,Is the Venue booked? ,Yes,-300,1.0,-150.0,planner,no,Venue
+10,Confirm venue delivery and pick up requirements ,Is the Venue booked? ,Yes,-300,1.0,-150.0,client,yes,Venue
+11,Secure ceremony location,Will there be separate venues for ceremony and reception? ,Yes,-300,1.0,-180.0,planner,no,Venue
+12,Secure reception location,Will there be separate venues for ceremony and reception? ,Yes,-300,1.0,-180.0,client,yes,Venue
+13,Determine budget ,,,-300,1.0,-180.0,planner,no,Budget
+14,Draft a detailed budget to determine spend,,,-300,1.0,,client,yes,Budget
+15,Schedule venue site visit (initial) ,Is the Venue booked? ,Yes,-270,0.9,-180.0,client,yes,Venue
+16,Schedule venue site visit (initial) ,Is the Venue booked? ,No,-270,0.9,,client,yes,Venue
+17,Send caterer referrals ,Is the Caterer Booked?,No,-270,0.9,-180.0,client,yes,Catering
+18,Review caterer referrals,Is the Caterer Booked?,No,-270,0.9,-180.0,client,yes,Catering
+19,Book Caterer,Is the Caterer Booked?,No,-270,0.9,-180.0,client,yes,Catering

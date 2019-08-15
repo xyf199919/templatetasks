@@ -1,0 +1,21 @@
+Description,Question,Answer,Timing,MINIMUM TIME,Assignment ,Client Visibility,Category
+- Pull together venue referrals and set up tours ,Is the Venue booked? ,No,10 wks,6,planner,,Venue
+- Review venue referrals and provide feedback,Is the Venue booked? ,No,4weeks,6,client,yes,Venue
+- Finalize and book venue,Is the Venue booked? ,No,1 month,6,planner,,Venue
+- Check if venue has preferred vendor requirements ,Is the Venue booked? ,No,2 month,5,planner,,Venue
+- Enter venue(s) information,Is the Venue booked? ,No,2 weeks,6,planner,,Venue
+- Confirm venue delivery and pick up requirements ,Is the Venue booked? ,No,10 months,5,planner,,Venue
+- Request venue contract from client,Is the Venue booked? ,Yes,10 months,6,planner,,Venue
+- Send venue contracts and pertinent information to planner,Is the Venue booked? ,Yes,9days,6,planner,,Venue
+- Enter venue(s) information,Is the Venue booked? ,Yes,10days,6,planner,,Venue
+- Check if venue has preferred vendor requirements ,Is the Venue booked? ,Yes,10 months,5,planner,,Venue
+- Confirm venue delivery and pick up requirements ,Is the Venue booked? ,Yes,10 months,5,client,yes,Venue
+- Secure ceremony location,Will there be separate venues for ceremony and reception? ,Yes,10 months,6,planner,,Venue
+- Secure reception location,Will there be separate venues for ceremony and reception? ,Yes,10 months,6,client,yes,Venue
+- Determine budget ,,,10 months,6,planner,,Budget
+- Draft a detailed budget to determine spend,,,10 month,,client,yes,Budget
+- Schedule venue site visit (initial) ,Is the Venue booked? ,Yes,9 months,6,client,yes,Venue
+- Schedule venue site visit (initial) ,Is the Venue booked? ,No,9 months,,client,yes,Venue
+- Send caterer referrals ,Is the Caterer Booked?,No,9 months,6,client,yes,Catering
+Review caterer referrals,Is the Caterer Booked?,No,9 months,6,client,yes,Catering
+- Book Caterer,Is the Caterer Booked?,No,9 months,6,client,yes,Catering
