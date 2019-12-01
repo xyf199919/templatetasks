@@ -1,0 +1,214 @@
+,description,question,field,timing,timingratio,mintime,assignment,visibility,category,sequence,newsequence,newtime,newmin
+0,Discuss wedding weekend events with client,Event Date,text,7 months,0.7,5,Planner,Yes,General,1,1,-210.0,-150.0
+1,Register for gifts,Event Date,text,7 months,0.7,5,Client,Yes,General,2,2,-210.0,-150.0
+2,Obtain your marriage license,Event Date,text,3 months,0.3,1,Client,Yes,General,3,3,-90.0,-30.0
+3,"Purchase gifts for wedding party, parents and each other",Event Date,text,2 months,0.2,1,Client,Yes,General,4,4,-60.0,-30.0
+4,Compile Guest list,Guest Count,text,9 months,0.9,6,Client,Yes,General,1,5,-270.0,-180.0
+5,Collect Guest email and physical addresses,Guest Count,text,9 months,0.9,7,Client,Yes,General,2,6,-270.0,-210.0
+6,RSVP deadline,Guest Count,text,1 Month,0.0033333333333333335,1,Planner,Yes,General,3,7,-1.0,-30.0
+7,Send Final guest count to Planner,Guest Count,text,1 month,0.1,2 weeks,Client,Yes,General,4,8,-30.0,-14.0
+8,Update floor plan based on final guest count and send to client for table/seat assignments,Guest Count,text,4 weeks,0.09333333333333334,4 weeks,Planner,No,General,5,9,-28.0,-28.0
+9,Final table/seat assignments due,Guest Count,text,1 month,0.1,3 weeks,Client,Yes,General,6,10,-30.0,-21.0
+10,Update Contracts with final guest count,Guest Count,text,3 weeks ,0.07,3 wks,Planner,No,General,7,11,-21.0,-21.0
+11,Update final payments (to reflect final counts),Guest Count,text,3 weeks,0.07,3 wks,Planner,No,General,8,12,-21.0,-21.0
+12,Guest count contractually locked in,Guest Count,text,2 weeks,0.04666666666666667,2 weeks,Planner,Yes,General,9,13,-14.0,-14.0
+13,Determine budget,Budget,text,10 months,1.0,7,Client,Yes,General,1,14,-300.0,-210.0
+14,Draft a detailed budget to determine spend,Budget,text,10 month,1.0,6,Planner,No,General,2,15,-300.0,-180.0
+15,Review estimated event budget,Budget,text,9 months,0.9,7,Planner,Yes,General,3,16,-270.0,-210.0
+16,Set up wedding website,Website:,text,9 months,0.9,6,Client,Yes,General,1,17,-270.0,-180.0
+17,"Add date, wedding event location/time, and hotel block information to Wedding Website",Website:,text,9 months,0.9,5,Client,Yes,General,2,18,-270.0,-150.0
+18,Send wedding website info how to's,Website:,text,9 months,0.9,6,Planner,No,General,3,19,-270.0,-180.0
+19,Add transportation and additional event info to wedding website,Website:,text,4 months,0.4,4,Client,Yes,General,4,20,-120.0,-120.0
+20,Share Pinterest Board and inspiration with planner,Pinterest:,text,10 months,1.0,6,Client,Yes,General,1,21,-300.0,-180.0
+21,Inform planner of wedding party count and names,Is there a wedding party?,Yes,7 months,0.7,6,Client,Yes,Wedding Party,1,22,-210.0,-180.0
+22,Send recommendations for wedding party attire,Is there a wedding party?,Yes,8 months,0.8,6,Planner,Yes,Wedding Party,2,23,-240.0,-180.0
+23,Book appointements/Shop for wedding party attire,Is there a wedding party?,Yes,7 months,0.7,6,Client,Yes,Wedding Party,3,24,-210.0,-180.0
+24,Order Bridesmaid dresses,Is there a wedding party?,Yes,6 months,0.6,5,Client,Yes,Wedding Party,4,25,-180.0,-150.0
+25,Order Groom and Groomsmen attire,Is there a wedding party?,Yes,5 months,0.5,3,Client,Yes,Wedding Party,5,26,-150.0,-90.0
+26,Send recommendations and sources for wedding party accessories,Is there a wedding party?,Yes,4 months,0.4,3,Planner,Yes,Wedding Party,6,27,-120.0,-90.0
+27,Confirm delivery dates for wedding party attire,Is there a wedding party?,Yes,4 months,0.4,2,Client,Yes,Wedding Party,7,28,-120.0,-60.0
+28,Confirm if the client is having a wedding party,How many in ____ party?,Maybe,8 months,0.8,6,Planner,Yes,Wedding Party,1,29,-240.0,-180.0
+29,"Decide on, and confirm, wedding party",How many in ____ party?,Maybe,7.5 months,7.5,6,Client,Yes,Wedding Party,2,30,-2250.0,-180.0
+30,Inform planner of flower girl/ring bearers count and names,Will there be flower girls and/or ring bearers? ,Yes,8 months,0.8,3 months,Client,Yes,Wedding Party,1,31,-240.0,-90.0
+31,Send recommendations for flower girl/ring bearer attire,Will there be flower girls and/or ring bearers? ,Yes,5 months,0.5,4 months,Planner,No,Wedding Party,2,32,-150.0,-120.0
+32,Purchase flower girl/ring bearer attire,Will there be flower girls and/or ring bearers? ,Yes,5 months,0.5,3 months,Client,Yes,Wedding Party,3,33,-150.0,-90.0
+33,Send recommendations for ring pillow/box,Will there be flower girls and/or ring bearers? ,Yes,4 months,0.4,2 months,Planner,No,Wedding Party,4,34,-120.0,-60.0
+34,Confirm whether the wedding will have flower girls and/or ring bearers,Will there be flower girls and/or ring bearers? ,Maybe,6 months,0.6,3,Client,Yes,Wedding Party,1,35,-180.0,-90.0
+35,Determine childcare or activites needed,Will there be children in (or attending) the wedding?,yes ,4 months,0.4,6,Planner,Yes,Guest Profile,1,36,-120.0,-180.0
+36,Confirm child meals,Will there be children in (or attending) the wedding?,yes ,2 months,0.2,1,Planner,No,Guest Profile,2,37,-60.0,-30.0
+37,Confirm child seating,Will there be children in (or attending) the wedding?,yes ,1 month,0.1,1,Planner,No,Guest Profile,3,38,-30.0,-30.0
+38,Confirm if children are attending the event,Will there be children in (or attending) the wedding?,Maybe,7 months,0.7,6,Client,Yes,Guest Profile,1,39,-210.0,-180.0
+39,Determine wheelchair/ADA compliance needs,Will there be Elderly or Disabled folks attending the wedding?,yes ,2 months,0.2,2,Planner,No,Guest Profile,1,40,-60.0,-60.0
+40,Confirm whether there will be Elderly/Disabled folks in attendance,Will there be Elderly or Disabled folks attending the wedding?,Maybe,3 months,0.3,2 months,Planner,No,Guest Profile,1,41,-90.0,-60.0
+41,Secure ceremony location,"Does the client prefer one venue, or more, for both ceremony and reception?",Separate Venues,10 months,1.0,6,Planner,Yes,Venue,1,42,-300.0,-180.0
+42,Secure reception location,"Does the client prefer one venue, or more, for both ceremony and reception?",Separate Venues,10 months,1.0,6,Planner,Yes,Venue,2,43,-300.0,-180.0
+43,*split Ceremony/Reception sections populate*,if separate Venues,Separate Venues,,1.0,,,,Venue,1,44,,
+44,Pull together venue referrals and set up tours,Booked Status (Venue),Not Booked,10 months,1.0,6,Planner,No,Venue,1,45,-300.0,-180.0
+45,Review venue referrals and provide feedback,Booked Status (Venue),Not Booked,10 months,1.0,6,Client,Yes,Venue,2,46,-300.0,-180.0
+46,Finalize and book venue(s),Booked Status (Venue),Not Booked,10 months,1.0,6,Planner,Yes,Venue,3,47,-300.0,-180.0
+47,n/a,Booked Status (Venue),Pending,,1.0,,,,VENUE,1,48,,
+48,Request venue contract from client,Booked Status (Venue),Booked,10 months,1.0,6,Planner,No,CONSULT,1,49,-300.0,-180.0
+49,Send venue contracts and pertinent information to planner,Booked Status (Venue),Booked,10 months,1.0,6,Client,Yes,CONSULT,2,50,-300.0,-180.0
+50,Enter venue(s) information and payment schedule,Booked Status (Venue),Booked,10 months,1.0,6,Planner,No,CONSULT,3,51,-300.0,-180.0
+51,Check if venue has preferred vendor and transportation requirements,Booked Status (Venue),Booked,10 months,0.9,5,Planner,No,CONSULT,4,52,-300.0,-150.0
+52,Confirm venue delivery and pick up requirements,Booked Status (Venue),Booked,10 months,0.3,5,Planner,No,CONSULT,5,53,-300.0,-150.0
+53,Schedule venue site visit,Booked Status (Venue),Booked,9 months,0.3,6,Planner,No,CONSULT,6,54,-270.0,-180.0
+54,Schedule final walk through,Booked Status (Venue),Booked,3 months,1.0,2,Planner,No,CONSULT,7,55,-90.0,-60.0
+55,Schedule ceremony rehearsal,Booked Status (Venue),Booked,3 months,1.0,2,Planner,Yes,CONSULT,8,56,-90.0,-60.0
+56,Enter venue(s) information and payment schedule,Booked Status (Venue),Booked,10 months,1.0,6,Planner,No,VENUE,1,57,-300.0,-180.0
+57,Check if the venue has preferred vendor and transportation requirements,Booked Status (Venue),Booked,10 months,0.9,5,Planner,No,VENUE,2,58,-300.0,-150.0
+58,Confirm venue delivery and pick up requirements,Booked Status (Venue),Booked,10 months,0.3,5,Planner,No,VENUE,3,59,-300.0,-150.0
+59,Schedule venue site visit,Booked Status (Venue),Booked,9 months,0.3,6,Planner,No,VENUE,4,60,-270.0,-180.0
+60,Schedule final walk through,Booked Status (Venue),Booked,3 months,0.3,2,Planner,No,VENUE,5,61,-90.0,-60.0
+61,Schedule ceremony rehearsal,Booked Status (Venue),Booked,3 months,0.2,2,Planner,Yes,VENUE,6,62,-90.0,-60.0
+62,Secure event Insurance and send to planner/venue,Does the venue require event insurance?,Yes,3 months,0.0033333333333333335,2,Client,Yes,"*when Booked, new set of fields populate, older fields are collapsed and nested ",1,63,-90.0,-60.0
+63,Event insurance due to Venue,Does the venue require event insurance?,Yes,2 months,0.7,2,Planner,Yes,"*when Booked, new set of fields populate, older fields are collapsed and nested ",2,64,-60.0,-60.0
+64,Ceremony Rehearsal,Does the venue require event insurance?,Yes,1 day,0.4,1 day,Planner,Yes,Ceremony,1,65,-1.0,-1.0
+65,Collect officiant information,Does the client have an officiant? ,Yes,7 months,0.4,5,Planner,No,Ceremony,1,66,-210.0,-150.0
+66,Send officiant contact information to Planner,Does the client have an officiant? ,Yes,4 months,0.4,2,Client,Yes,Ceremony,2,67,-120.0,-60.0
+67,Provide resources for writing a ceremony (if applicable),Does the client have an officiant? ,Yes,4 months,0.2,3,Planner,No,Ceremony,3,68,-120.0,-90.0
+68,Discuss ceremony service with officiant and/or write ceremony flow,Does the client have an officiant? ,Yes,4 months,0.7,3,Client,Yes,Ceremony,4,69,-120.0,-90.0
+69,"Finalize ceremony service with officiant and/or write ceremony flow (including rituals, readings, traditions, etc.)",Does the client have an officiant? ,Yes,2 months,0.6,2,Client,Yes,Ceremony,5,70,-60.0,-60.0
+70,Book officiant,Does the client have an officiant? ,No,7 months,0.9,5,Planner,Yes,Ceremony,1,71,-210.0,-150.0
+71,Follow up on officiant decision,Does the client have an officiant? ,Maybe,6 months,0.9,5,Planner,Yes,Ceremony,1,72,-180.0,-150.0
+72,Send caterer referrals,Booked Status (Catering),Not Booked,9 months,8.5,6,Planner,No,Catering ,1,73,-270.0,-180.0
+73,Review caterer referrals,Booked Status (Catering),Not Booked,9 months,0.5,6,Client,Yes,Catering ,2,74,-270.0,-180.0
+74,Book Caterer,Booked Status (Catering),Not Booked,8.5 months,0.3,6,Planner,Yes,Catering ,3,75,-2550.0,-180.0
+75,Schedule Tastings,Booked Status (Catering),Booked,5 months,0.3,4,Planner,Yes,Catering ,1,76,-150.0,-120.0
+76,Have tasting with caterer,Booked Status (Catering),Booked,3 months,0.1,3,Client,Yes,Catering ,2,77,-90.0,-90.0
+77,Finalize Menu & Bar selections,Booked Status (Catering),Booked,3 months,0.07,2,Client,Yes,Catering ,3,78,-90.0,-60.0
+78,Final guest count and entree counts due to planner,Booked Status (Catering),Booked,1 month,0.3,3 weeks,Client,Yes,Catering ,4,79,-30.0,-21.0
+79,Confirm vendor meal count and dietary needs,Booked Status (Catering),Booked,3 weeks,0.3,2 weeks,Planner,No,Catering ,5,80,-21.0,-14.0
+80,Order place cards with meal indicators (for plated service),Preferred Meal Service Style?,Plated Service,3 months,0.4,3,Planner,No,Food,1,81,-90.0,-90.0
+81,Finalize late night snack options,Will there be a late night snack?,Maybe,3 months,0.9,2,Planner,No,Food,1,82,-90.0,-60.0
+82,Confirm bar spirits/wine/beer/beverages and dinner wines,Will there be a late night snack?,Maybe,4 months,0.3,2,Planner,No,Beverage,1,83,-120.0,-60.0
+83,Confirm venue allows hard alcohol,Is a full bar a priority?,Yes,9 months,0.4,7,Planner,No,Beverage,1,84,-270.0,-210.0
+84,Add signature cocktail sign to signage/paper order,Signature cocktails?,yes,3 months,0.3,2,Planner,No,Beverage,1,85,-90.0,-60.0
+85,Review signature cocktail options,Signature cocktails?,yes,4 months,0.6,2,Client,Yes,Beverage,2,86,-120.0,-60.0
+86,Finalize signature cocktails,Signature cocktails?,yes,3 months,0.7,2,Client,Yes,Beverage,3,87,-90.0,-60.0
+87,Decide whether the event will have signature cocktails,Signature cocktails?,Maybe,6 months,0.4,3,Client,Yes,Beverage,1,88,-180.0,-90.0
+88,Secure dessert vendor,"
+Dessert Options? ",**always on**,7 months,0.3,5,Planner,Yes,Dessert,1,89,-210.0,-150.0
+89,Schedule dessert tasting,"
+Dessert Options? ",**always on**,4 months,0.3,4,Planner,No,Dessert,2,90,-120.0,-120.0
+90,Have dessert tasting,"
+Dessert Options? ",**always on**,3 months,0.5,4,Client,Yes,Dessert,3,91,-90.0,-120.0
+91,Finalize cake flavors and/or dessert menu,"
+Dessert Options? ",**always on**,3 months,0.5,2,Client,Yes,Dessert,4,92,-90.0,-60.0
+92,**Text Box For Custom Dessert Note associated with OTHER**,"
+Dessert Options? ",Other,,0.9,,,,Dessert,1,93,,
+93,Finalize cake cutting,Does the client want to cut the cake?,yes,5 months,0.9,1,Planner,Yes,Dessert,1,94,-150.0,-30.0
+94,Finalize cake cutting,Does the client want to cut the cake?,maybe,5 months,0.8,1,Planner,Yes,Dessert,1,95,-150.0,-30.0
+95,Send music referrals,Booked Status (Music),Not Booked,9 months,0.3,5,Planner,No,Music,1,96,-270.0,-150.0
+96,Review music referrals,Booked Status (Music),Not Booked,9 months,0.3,5,Client,Yes,Music,2,97,-270.0,-150.0
+97,Book music,Booked Status (Music),Not Booked,8 months,0.1,5,Planner,Yes,Music,3,98,-240.0,-150.0
+98,Begin choosing your music. Create a list to provide to your DJ and/or musicians,Booked Status (Music),Booked,3 months,0.14,2,Client,Yes,Music,1,99,-90.0,-60.0
+99,Confirm power needs for Music,Booked Status (Music),Booked,3 months,0.1,2,Planner,No,Music,2,100,-90.0,-60.0
+100,Song preferences and selections due to DJ,Ceremony Music?,DJ,1 month,0.14,1,Client,Yes,**double/triple trigger??* ,1,101,-30.0,-30.0
+101,Song preferences and selections due to musicians,Ceremony Music?,Live,6 weeks,0.1,1,Client,Yes,(only need 2 tasks - DJ and/ or music,1,102,-42.0,-30.0
+102,Song preferences and selections due to DJ,Cocktail hour?,DJ,1 month,0.14,1,Client,Yes,(only need 2 tasks - DJ and/ or music,1,103,-30.0,-30.0
+103,Song preferences and selections due to musicians,Cocktail hour?,Live,6 weeks,1.0,1,Client,Yes,(only need 2 tasks - DJ and/ or music,1,104,-42.0,-30.0
+104,Song preferences and selections due to DJ,Reception?,DJ,1 month,0.9,1,Client,Yes,(only need 2 tasks - DJ and/ or music,1,105,-30.0,-30.0
+105,Song preferences and selections due to musicians,Reception?,Live,6 weeks,0.9,1,Client,Yes,(only need 2 tasks - DJ and/ or music,1,106,-42.0,-30.0
+106,Send photography referrals,Booked Status (Photographer),Not Booked,10 months,0.1,6,Planner,No,Photography,1,107,-300.0,-180.0
+107,Review photography referrals,Booked Status (Photographer),Not Booked,9 months,0.9,6,Client,Yes,Photography,2,108,-270.0,-180.0
+108,Book photographer,Booked Status (Photographer),Not Booked,9 months,0.1,6,Planner,Yes,Photography,3,109,-270.0,-180.0
+109,Send must take shot list to Photographer,Booked Status (Photographer),Not Booked,1 month,0.8,1,Client,Yes,Photography,4,110,-30.0,-30.0
+110,Collect Photographer's contact information and contract. Add to payment schedule,Booked Status (Photographer),Booked,9 months,0.8,6,Planner,Yes,Photography,1,111,-270.0,-180.0
+111,Send must take shot list to Photographer,Booked Status (Photographer),Booked,1 month,0.6,1,Client,Yes,Photography,2,112,-30.0,-30.0
+112,Schedule engagement photography session,Does the client want an engagement session?,Yes,8 months,0.6,5,Client,Yes,Photography,1,113,-240.0,-150.0
+113,Confirm if the client wants an engagement session,Does the client want an engagement session?,Maybe,8 months,0.8,6 months,Planner,No,Photography,1,114,-240.0,-180.0
+114,Confirm if clients want getting ready shots,"
+Does the client want getting ready shots on their wedding day?",Maybe,6 months,0.8,3 months,Planner,No,Photography,1,115,-180.0,-90.0
+115,"Confirm if clients want a ""First Look""","
+Does the client want a First Look before the ceremony?",Maybe,6 months,0.8,3 months,Planner,No,Photography,1,116,-180.0,-90.0
+116,Send videography referrals,Does the client want a videographer?,Yes,8 months,0.7,5,Planner,No,Videography,1,117,-240.0,-150.0
+117,Review videography referrals,Does the client want a videographer?,Yes,8 months,0.7,5,Client,Yes,Videography,2,118,-240.0,-150.0
+118,Book videographer,Does the client want a videographer?,Yes,8 months,0.8,5,Planner,Yes,Videography,3,119,-240.0,-150.0
+119,Determine whether or not to hire a videographer,Does the client want a videographer?,TBD,6 months,0.8,,Client,Yes,Videography,1,120,,
+120,Obtain floral contract and populate budget and payment schedule,Booked Status (Floral),Booked,7 month,0.7,5,Planner,No,Floral,1,121,-210.0,-150.0
+121,Provide floral contact information and contract,Booked Status (Floral),Booked,7 month,0.8,5,Client,Yes,Floral,2,122,-210.0,-150.0
+122,Send florist recommendations,Booked Status (Floral),Not Booked,8 month,7.5,5,Planner,No,Floral,1,123,-240.0,-150.0
+123,Review floral proposals,Booked Status (Floral),Not Booked,8 month,0.7,5,Client,Yes,Floral,2,124,-240.0,-150.0
+124,Book Florist,Booked Status (Floral),Not Booked,7 month,0.6,5,Planner,Yes,Floral,3,125,-210.0,-150.0
+125,Send paper goods referrals and proposals,Booked Status (Paper Goods),Not Booked,8 months,0.3,4,Planner,No,Paper Goods,1,126,-240.0,-120.0
+126,Review paper goods proposals,Booked Status (Paper Goods),Not Booked,7.5 months,0.3,4,Client,Yes,Paper Goods,2,127,-2250.0,-120.0
+127,Book paper goods vendor,Booked Status (Paper Goods),Not Booked,7 months,0.1,4,Planner,Yes,Paper Goods,3,128,-210.0,-120.0
+128,Determine 'day of wedding' paper products needs,Booked Status (Paper Goods),Booked,6 months,0.09333333333333334,3,Planner,Yes,Paper Goods,1,129,-180.0,-90.0
+129,Request/Review 'day of' paper products proposal and make edits if needed,Booked Status (Paper Goods),Booked,3 months,0.013333333333333334,2,Planner,No,Paper Goods,2,130,-90.0,-60.0
+130,Wording for 'day of' paper products due,Booked Status (Paper Goods),Booked,3 months,0.7,2,Planner,Yes,Paper Goods,3,131,-90.0,-60.0
+131,Final 'day of' paper products proof approval due,Booked Status (Paper Goods),Booked,1 month,0.7,3 weeks,Client,Yes,Paper Goods,4,132,-30.0,-21.0
+132,Final guest list and table/seat assignements due to stationer,Booked Status (Paper Goods),Booked,28 days out,0.6,20 days,Planner,Yes,Paper Goods,5,133,-28.0,-20.0
+133,'Day of' paper products delivery to Planner,Booked Status (Paper Goods),Booked,4 days,0.6,4 days,Planner,No,Paper Goods,6,134,-4.0,-4.0
+134,Order Save the Dates and begin proof rounds,Save the Dates:,Physical Save the Dates,7 months,0.5,7,Planner,Yes,Paper Goods,1,135,-210.0,-210.0
+135,Mail save the dates,Save the Dates:,Physical Save the Dates,7 months,0.4,6,Client,Yes,Paper Goods,2,136,-210.0,-180.0
+136,Design and order digital save the dates,Save the Dates:,Digital,6 months,0.4,5,Client,Yes,Paper Goods,1,137,-180.0,-150.0
+137,Send save the dates via digital format of your choosing,Save the Dates:,Digital,6 months,0.4,5,Client,Yes,Paper Goods,2,138,-180.0,-150.0
+138,Order Invitations and begin proof rounds,Invitation Suite:,Physical Invitation Suite,5 months,0.3,3,Planner,Yes,Paper Goods,1,139,-150.0,-90.0
+139,Determine final entree selections for RSVPs,Invitation Suite:,Physical Invitation Suite,4 months,0.4,3,Client,Yes,Paper Goods,2,140,-120.0,-90.0
+140,Guest address list due to stationer,Invitation Suite:,Physical Invitation Suite,4 months,0.4,3,Client,Yes,Paper Goods,3,141,-120.0,-90.0
+141,Final invitation proof approval due,Invitation Suite:,Physical Invitation Suite,4 months,0.3,3,Planner,Yes,Paper Goods,4,142,-120.0,-90.0
+142,Mail invitations,Invitation Suite:,Physical Invitation Suite,3 months,0.21,2,Client,Yes,Paper Goods,5,143,-90.0,-60.0
+143,Determine final entree selections for RSVPs,"*Physical Invitation Suite* NESTED 
+What is included in the invitation suite and how many of each are needed?",Digital,4 months,0.7,3,Client,Yes,Paper Goods,1,144,-120.0,-90.0
+144,Create digital invite template,"*Physical Invitation Suite* NESTED 
+What is included in the invitation suite and how many of each are needed?",Digital,4 months,0.6,3,Client,Yes,Paper Goods,2,145,-120.0,-90.0
+145,Proof digital invites,"*Physical Invitation Suite* NESTED 
+What is included in the invitation suite and how many of each are needed?",Digital,3 months,0.5,2,Client,Yes,Paper Goods,3,146,-90.0,-60.0
+146,Send digital invites to guests,"*Physical Invitation Suite* NESTED 
+What is included in the invitation suite and how many of each are needed?",Digital,9 weeks,0.6,6 weeks,Client,Yes,Paper Goods,4,147,-63.0,-42.0
+147,Send rental referrals,"Will there be additional signage, programs, seating charts, printed materials, etc.?",*always on*,7 months,0.6,4,Planner,No,Rentals,1,148,-210.0,-120.0
+148,Review rental referrals,"Will there be additional signage, programs, seating charts, printed materials, etc.?",*always on*,6 months,0.6,4,Client,Yes,Rentals,2,149,-180.0,-120.0
+149,Book rental vendor and secure order,"Will there be additional signage, programs, seating charts, printed materials, etc.?",*always on*,5 months,0.6,4,Planner,No,Rentals,3,150,-150.0,-120.0
+150,Schedule rental meeting and prepare mock up for review,"Will there be additional signage, programs, seating charts, printed materials, etc.?",*always on*,6 months,0.5,4,Planner,No,Rentals,4,151,-180.0,-120.0
+151,"Finalize rental items (ie. tables, chairs, china, linens, etc.)","Will there be additional signage, programs, seating charts, printed materials, etc.?",*always on*,6 months,0.6,4,Planner,Yes,Rentals,5,152,-180.0,-120.0
+152,Send lighting/drape referrals,Is lighting and/or draping needed?,Yes,6 months,5.5,4,Planner,No,Rentals,1,153,-180.0,-120.0
+153,Review lighting/drape referrals,Is lighting and/or draping needed?,Yes,6 months,0.5,4,Client,Yes,Rentals,2,154,-180.0,-120.0
+154,Book lighting/drape vendor,Is lighting and/or draping needed?,Yes,5 months,0.6,4,Planner,Yes,Rentals,3,155,-150.0,-120.0
+155,Send lounge referrals,Does the client want a lounge? ,Yes,6 months,0.6,4,Planner,No,Rentals,1,156,-180.0,-120.0
+156,Review lounge referrals,Does the client want a lounge? ,Yes,5.5 months,0.5,4,Client,Yes,Rentals,2,157,-1650.0,-120.0
+157,Book lounge vendor,Does the client want a lounge? ,Yes,5 months,0.8,3,Planner,Yes,Rentals,3,158,-150.0,-90.0
+158,Send linen referrals,Linens,Text,6 months,0.9,4,Planner,No,Rentals,1,159,-180.0,-120.0
+159,Review linen referrals,Linens,Text,6 months,0.9,4,Client,Yes,Rentals,2,160,-180.0,-120.0
+160,Book linen vendor,Linens,Text,5 months,0.3,3,Planner,Yes,Rentals,3,161,-150.0,-90.0
+161,Confirm couple's wedding weekend accommodations,"Specialty Rentals (tents, tabletop, etc.):",Text ,8 months,0.9,4,Client,Yes,Lodging & Transportation ,1,162,-240.0,-120.0
+162,Provide room block referrals and rates,Are room blocks needed?,Yes,9 months,0.7,6,Planner,No,Lodging & Transportation ,1,163,-270.0,-180.0
+163,Review room block proposals and select 1-3 hotels,Are room blocks needed?,Yes,9 months,6.5,6,Client,Yes,Lodging & Transportation ,2,164,-270.0,-180.0
+164,Request and Review Hotel Room Lists,Are room blocks needed?,Yes,3 months,0.01,1,Planner,Yes,Lodging & Transportation ,3,165,-90.0,-30.0
+165,Confirm room block preferences,Are room blocks needed?,Maybe,9 months,0.7,6 months,Planner,No,Lodging & Transportation ,1,166,-270.0,-180.0
+166,Request transportation quotes for guest and/or wedding party,Is transportation needed for the wedding party and/or guests to and from the event?,Yes,7 months,0.7,5,Planner,No,IF YES,1,167,-210.0,-150.0
+167,review transportation quotes and secure reservation,Is transportation needed for the wedding party and/or guests to and from the event?,Yes,6.5 months,6.5,5,Client,Yes,IF YES,2,168,-1950.0,-150.0
+168,Collect shuttle driver's (transportation) assignments and contact information,Is transportation needed for the wedding party and/or guests to and from the event?,Yes,3 days,0.01,5,Planner,No,IF YES,3,169,-3.0,-150.0
+169,Confirm transportation needs for wedding party and guests,"NESTED ""IF YES"" TEXT BOX - 
+Please Describe",Maybe,7 months,0.5,5 months,Planner,No,IF YES,1,170,-210.0,-150.0
+170,Request transportation quotes for guest and/or wedding party,Does the venue require transportation? (within venue or to venue),Yes,7 months,0.5,5,Planner,No,IF YES,1,171,-210.0,-150.0
+171,review transportation quotes and secure reservation,Does the venue require transportation? (within venue or to venue),Yes,6.5 months,0.5,5,Client,Yes,IF YES,2,172,-1950.0,-150.0
+172,Collect shuttle driver's (transportation) assignments and contact information,Does the venue require transportation? (within venue or to venue),Yes,3 days,0.6,3 days,Planner,No,IF YES,3,173,-3.0,-3.0
+173,Send Photobooth referrals,Does the client want a photobooth?,yes,5 months,0.7,3,Planner,No,Entertainment,1,174,-150.0,-90.0
+174,Review Photobooth referrals,Does the client want a photobooth?,yes,5 months,0.8,3,Client,Yes,Entertainment,2,175,-150.0,-90.0
+175,Book Photobooth vendor,Does the client want a photobooth?,yes,5 months,0.8,3,Planner,Yes,Entertainment,3,176,-150.0,-90.0
+176,Confirm if the client wants a Photobooth,Does the client want a photobooth?,Maybe,6 months,0.8,5 months,Planner,No,Entertainment,1,177,-180.0,-150.0
+177,Provide contract and contact information for hair and makeup artist,*Booked Status carries from Consult*,Booked,7 months,0.8,5,Client,Yes,CONSULT,1,178,-210.0,-150.0
+178,Confirm HMUA needs,Does the client want professional hair and makeup services? ,Maybe,8 months,0.3,7 months,Planner,No,CONSULT,1,179,-240.0,-210.0
+179,Send HMUA referrals,Does the client want professional hair and makeup services? ,Yes,8 months,0.5,5,Planner,No,CONSULT,1,180,-240.0,-150.0
+180,Review hair and makeup referrals,Does the client want professional hair and makeup services? ,Yes,8 months,0.5,5,Client,Yes,CONSULT,2,181,-240.0,-150.0
+181,Book HMUA vendor,Does the client want professional hair and makeup services? ,Yes,8 months,0.4,5,Planner,Yes,CONSULT,3,182,-240.0,-150.0
+182,Schedule hair and makeup trial,Does the client want professional hair and makeup services? ,Yes,7 months,0.5,,Planner,Yes,CONSULT,4,183,,
+183,Provide final number of services to hair and makeup artist,Does the client want professional hair and makeup services? ,Yes,3 months,0.4,3,Client,Yes,CONSULT,5,184,-90.0,-90.0
+184,Send favor ideas,Will there be favors? ,yes,5 months,0.4,2,Planner,No,Favors,1,185,-150.0,-60.0
+185,Send sources for favors,Will there be favors? ,yes,5 months,0.3,2,Planner,No,Favors,2,186,-150.0,-60.0
+186,Order favors,Will there be favors? ,yes,4 months,0.1,2,Client,Yes,Favors,3,187,-120.0,-60.0
+187,Confirm if the client wants favors,Will there be favors? ,maybe,5 months,0.5,3 months,Planner,No,Favors,1,188,-150.0,-90.0
+188,Send welcome bag ideas,Will there be welcome bags?,yes,4 months,0.9,3,Planner,No,Favors,1,189,-120.0,-90.0
+189,Send sources for welcome bags,Will there be welcome bags?,yes,4 months,0.8,3,Planner,No,Favors,2,190,-120.0,-90.0
+190,Order welcome bags,Will there be welcome bags?,yes,3 months,0.9,3,Client,Yes,Favors,3,191,-90.0,-90.0
+191,Assemble welcome bags and deliver to hotels,Will there be welcome bags?,yes,1 month,0.7,1 week,Client,Yes,Favors,4,192,-30.0,-7.0
+192,Confirm if the client wants welcome bags,Will there be welcome bags?,maybe,5 months,0.2,3 months,Planner,No,Favors,1,193,-150.0,-90.0
+193,Schedule initial design conversation,Will there be welcome bags?,maybe,9 month,0.14,8 months,Planner,No,Design,1,194,-270.0,-240.0
+194,Design/Mood Board presentation,Will there be welcome bags?,maybe,8 month,0.04666666666666667,5,Planner,Yes,Design,2,195,-240.0,-150.0
+195,Shop for wedding attire (dress),Additional Design Notes:,text ,9 months,0.07,7,Client,Yes,Attire,1,196,-270.0,-210.0
+196,Register for gifts,Additional Design Notes:,text ,7 months,0.3,5,Client,Yes,General,1,197,-210.0,-150.0
+197,"Purchase gifts for wedding party, parents and each other",Additional Design Notes:,text ,2 months,0.04666666666666667,1,Client,Yes,General,2,198,-60.0,-30.0
+198,Send timeline and floorplan to vendors for review,Additional Design Notes:,text ,6 weeks,0.01,1,Planner,No,Final Documentation,1,199,-42.0,-30.0
+199,Update and send timeline and floorplan to Vendors with final numbers,Additional Design Notes:,text ,2 wks,0.0033333333333333335,1 wk,Planner,No,Final Documentation,2,200,-14.0,-7.0
+200,Send final payments and vendor tip guide to client,Additional Design Notes:,text ,3 weeks,0.023333333333333334,1 week,Planner,No,Final Documentation,3,201,-21.0,-7.0
